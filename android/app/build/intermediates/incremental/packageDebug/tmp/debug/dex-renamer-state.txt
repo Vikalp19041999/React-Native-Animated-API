@@ -1,0 +1,4 @@
+#Thu Feb 20 15:21:53 IST 2020
+base.0=/home/ulcom17/Desktop/React Native/ReactNativeAnimatedAPI/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
